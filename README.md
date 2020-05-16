@@ -1,4 +1,5 @@
-![cover](https://user-images.githubusercontent.com/9624843/82117507-10fbdd00-9779-11ea-838c-fd24dfdba94f.png)
+![cover](https://user-images.githubusercontent.com/9624843/82117529-37ba1380-9779-11ea-8599-f6beaeb1b122.png)
+
 
 # Deep-Learning-Porn-Detection
 A Deep Neural network was used to classify the explicit content of a image, using a porn dataset and a bikini dataset (downloaded images from google).
