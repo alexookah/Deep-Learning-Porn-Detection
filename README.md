@@ -1,4 +1,6 @@
-![cover](https://user-images.githubusercontent.com/9624843/82117529-37ba1380-9779-11ea-8599-f6beaeb1b122.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/9624843/82117529-37ba1380-9779-11ea-8599-f6beaeb1b122.png"/>
+</p>
 
 
 # Deep-Learning-Porn-Detection
